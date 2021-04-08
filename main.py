@@ -60,7 +60,6 @@ def emojisdel():
          h.start()      
 print(Fore.RED + r'''
 
-
 ─██████████████───██████         ██████████████ ██████████████ ██████████████ ██████████████─██████████████
 ─██░░░░░░░░░░██───██░░██         ██░░░░░░░░░░██ ██░░░░░░░░░░██ ██░░░░░░░░░░██ ██░░░░░░░░░░██─██░░░░░░░░░░██
 ─██░░██████░░██───██░░██         ██░░██████░░██ ██░░██████████ ██████░░██████ ██░░██████░░██─██░░██████░░██
@@ -75,7 +74,7 @@ print(Fore.RED + r'''
 
 1 ; Ban Members - BlastOP
 2 ; Del Channels - BlastOP  
-3 ; Del Roles - BlastOP
+3 ; Del Roles - BlastOP  
 4 ; Del Emojis - BlastOP
 5 ; Nuke Server - BlastOP           
 ''' + Style.RESET_ALL)
@@ -102,4 +101,4 @@ while True:
         print("Deleting All Roles with Speed of 10+ Roles Per Second.")
         emojisdel()
         print("Deleting All Emojis with Speed of 5+ Emojis Per Second.")
-        print("[SUCCESS] - The Server has been nuked.\n Thanks for using BlastOP GOD nuker") 
+        print("[SUCCESS] - The Server has been nuked.\n Thanks for using FreeOp Root nuker") 
